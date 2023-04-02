@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{A2F50D6D-721F-FFE9-9FAB-A8FED96DED28}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/an adventure game/Scripts/PauseScreenManager.cs">
+    <Files>
+      <File FileName="Assets/an adventure game/Scripts/StoryFiller.cs" Line="127" Column="20" />
+      <File FileName="Assets/an adventure game/Scripts/GameplayManager.cs" />
+      <File FileName="Assets/an adventure game/Scripts/StoryNode.cs" />
+      <File FileName="Assets/an adventure game/Scripts/ExitGame.cs" />
+      <File FileName="Assets/an adventure game/Scripts/PauseScreenManager.cs" Line="24" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="an adventure game" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="an adventure game" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="StoryFiller.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="359d0631-f05d-45f5-ac3e-8da38f47cf3a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
