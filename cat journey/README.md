@@ -8,5 +8,6 @@ This is a 2D UI game exercise where users will experience an exploration journey
 
 Images
 ----------
-![](image1.jpeg)
-![](image2.jpeg)
+![](menu.png)
+![](cat.png)
+![](cat3.png)
