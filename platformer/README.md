@@ -5,7 +5,7 @@ Description
 ----------
 In this assignment, I experimented with Unity animations and how to utilize resources from Mixamo. I also played with a particle system downloaded from the Unity Asset Store. 
 
-![]()
+![](screenshot.png)
 
 The character remained in an idle state for the majority of the time. However, upon left-clicking the mouse, the character would jump, and upon pressing the spacebar, the character would begin to run.
 
